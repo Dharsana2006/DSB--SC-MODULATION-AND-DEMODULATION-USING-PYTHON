@@ -28,14 +28,19 @@ __Procedure__:
 6) Coherent demodulation (multiply by synchronized carrier)
 7) Low-pass filter to recover message
 
-   __Program__:
-   <img width="509" height="518" alt="504845201-afc7018c-e917-4f1a-8186-fcb86f4fe675" src="https://github.com/user-attachments/assets/b42db692-6a4a-4061-9185-5aa6d10c003b" />
-   __Tabulation__:
+__Program__:
+
+<img width="509" height="518" alt="504845201-afc7018c-e917-4f1a-8186-fcb86f4fe675" src="https://github.com/user-attachments/assets/b42db692-6a4a-4061-9185-5aa6d10c003b" />
+   
+__Tabulation__:
+
 ![WhatsApp Image 2025-11-22 at 17 58 28_4983eb17](https://github.com/user-attachments/assets/df840a7d-035e-4de6-8052-a1698fdc9c10)
 
-   __Output__:
+__Output__:
+
 <img width="890" height="600" alt="image" src="https://github.com/user-attachments/assets/5488d100-8f71-4448-b499-d2d8f4672998" />
 
-   __Result__:
-   ![WhatsApp Image 2025-11-22 at 17 59 44_29c21903](https://github.com/user-attachments/assets/62b8143f-e7b3-4e39-8fed-432323716f85)
+__Result__:
+
+![WhatsApp Image 2025-11-22 at 17 59 44_29c21903](https://github.com/user-attachments/assets/62b8143f-e7b3-4e39-8fed-432323716f85)
 
